@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url('nativa.jpg');
+    background-color: #000000;
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
