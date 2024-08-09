@@ -47,14 +47,14 @@ export const perguntas = [
                 afirmacao: ["Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
                     "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
                 ],
-                proxima: 5,
+                proxima: 3,
             },
             {
                 texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
                 afirmacao: ["Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
                     "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
                 ],
-                proxima: 6,
+                proxima: 4,
             },
         ]
     },
@@ -66,7 +66,7 @@ export const perguntas = [
                 afirmacao: ["Notou também que muitas pessoas não sabem ainda utilizar as ferramentas tradicionais e decidiu compartilhar seus conhecimentos de design utilizando ferramentas de pintura digital para iniciantes.",
                     "Ainda acha que os meios de desenho tradicionais são mais eficazes para a criatividade, por isso vem estimulando pessoas em suas redes sociais a fazer pintura em aquarela."
                 ],
-                proxima: 7,
+                proxima: 5,
             },
             {
                 texto: "Criar uma imagem utilizando um gerador de imagem de IA.",
@@ -74,7 +74,7 @@ export const perguntas = [
                     "Compartilhou artes em redes sociais como forma de ensinar como se comunicar através da arte.",
                     "Percebeu que muitas pessoas têm dificuldade em expressar suas ideias desenhando e acha que a IA é capaz de empoderar essas pessoas a tirarem ideias do papel."
                 ],
-                proxima: 8,
+                proxima: 6,
             },
         ]
     },

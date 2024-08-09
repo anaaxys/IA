@@ -24,7 +24,6 @@ function iniciaJogo () {
     caixaAlternativas.classList.remove("mostrar");
     caixaResultado.classList.remove("mostrar");
     mostraPergunta ();
-
 }
 
 function mostraPergunta() {
@@ -52,7 +51,7 @@ function respostaSelecionada(opcaoSelecionada) {
     historiaFinal += afirmacoes + " ";
     if(opcaoSelecionada.proxima !== undefined) {
         atual = opcaoSelecionada.proxima;
-    }else {
+    } else {
         mostraResultado ();
         return;
     }
@@ -81,4 +80,3 @@ function substituiNome() {
 }
 
 substituiNome ();
-mostraPergunta();
